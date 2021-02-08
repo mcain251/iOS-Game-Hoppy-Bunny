@@ -1,3 +1,3 @@
 # iOS-Game-Hoppy-Bunny
 
-iOS clone of Flappy Bird, created at Make School.
+iOS clone of Flappy Bird, created under instruction at Make School.
